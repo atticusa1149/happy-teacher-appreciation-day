@@ -1,0 +1,19 @@
+button{
+    margin: 15px;
+    border-radius: 15px;
+}
+div{
+    margin:15px;
+    background-color: turquoise;
+    padding: 10px;
+    border-radius: 10px;
+}
+#answer1{
+    color:greenyellow;
+}
+#answer2{
+    color: red;
+}
+body{
+    background-color: red;
+}
